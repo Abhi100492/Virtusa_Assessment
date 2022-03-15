@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dictionary App</string>
+    <string name="str_splash_title">Welcome to Virtusa Dictionary Application</string>
+    <string name="str_available_rooms">Available Rooms</string>
+    <string name="str_rooms">Rooms</string>
+    <string name="str_people">People</string>
+    <string name="str_details">People Details</string>
+    <string name="str_toolbar_title">Dictionary</string>
+    <string name="str_no_internet">Please check your internet connectivity.</string>
+    <string name="str_api_error">Something went wrong, Please try after some time.</string>
+    <string name="str_no_data_available">No Data Available</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_please_wait">Please wait…</string>
+    <string name="str_fetch_people">fetching all peoples data</string>
+    <string name="str_fetch_room_data">fetching room data</string>
+
+</resources>
